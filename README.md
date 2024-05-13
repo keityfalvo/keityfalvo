@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💚
 
-Meu nome é Keity Falvo
+Meu nome é **Keity Falvo**
 
 - Estou estudando e aplicando as aulas do [Alura](https://www.alura.com.br)
 - Estou me desenvovlendo na linguagem JavaScript;
